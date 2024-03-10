@@ -1,18 +1,21 @@
-# [Nome do projeto]
+# Toque de Chef
 
-[Escreva um ou dois  parágrafo resumindo o objetivo do seu projeto.]
+O restaurante Toque de Chef, localizado no bairro Nova Suíça e com mais de 15 anos de tradição, enfrenta um desafio operacional significativo devido à falta de automação na gestão de produtos. Atendendo em média 200 clientes por dia, o estabelecimento, especializado em self-service, carece de um sistema eficiente para controlar estoque, pedidos e fornecedores.
+A ausência de automação resulta em dificuldades na monitorização em tempo real dos ingredientes, levando a desabastecimentos repentinos e excesso de estoque. Isso não apenas gera perdas financeiras, mas também compromete a qualidade do serviço. Além disso, a gestão manual do estoque e fornecedores contribui para a morosidade nos processos administrativos, podendo causar atrasos e erros. 
+Para superar esses desafios, a implementação de um sistema automatizado se torna crucial. Um software especializado permitiria monitorar o estoque em tempo real. Essa solução não só reduziria custos operacionais, minimizando desperdícios, como também preservaria a qualidade e variedade dos pratos oferecidos, garantindo a satisfação dos clientes ao longo dos anos.
 
 ## Alunos integrantes da equipe
 
-* [Nome completo do aluno 1]
-* [Nome completo do aluno 2]
-* [Nome completo do aluno 3]
-* [Nome completo do aluno 4]
+* Lara Lima Pereira
+* Lucas Fraga Ramos Oliveira
+* Pedro Henrique Marques de Oliveira
+* Rodrigo Garcia Ribas
+* Victhor Sebastian Ribeiro de Brito
 
 ## Professores responsáveis
 
-* [Nome completo do professor 1]
-* [Nome completo do professor 2]
+* Joana Gabriela Ribeiro de Souza
+* Michelle Hanne Soares de Andrade
 
 ## Instruções de utilização
 
