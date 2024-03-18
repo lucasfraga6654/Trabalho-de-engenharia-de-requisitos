@@ -4112,11 +4112,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\pedro\\OneDrive\\Documentos\\TOQUE.DE.CHEF\\TOQUE.DE.CHEF\\TOQUE.DE.CHEF.csproj",
+      "projectUniqueName": "C:\\Users\\pedro\\OneDrive\\Área de Trabalho\\pmg-es-2024-1-ti3-9577100-toque-de-chef\\Codigo\\TOQUE.DE.CHEF\\TOQUE.DE.CHEF\\TOQUE.DE.CHEF.csproj",
       "projectName": "TOQUE.DE.CHEF",
-      "projectPath": "C:\\Users\\pedro\\OneDrive\\Documentos\\TOQUE.DE.CHEF\\TOQUE.DE.CHEF\\TOQUE.DE.CHEF.csproj",
+      "projectPath": "C:\\Users\\pedro\\OneDrive\\Área de Trabalho\\pmg-es-2024-1-ti3-9577100-toque-de-chef\\Codigo\\TOQUE.DE.CHEF\\TOQUE.DE.CHEF\\TOQUE.DE.CHEF.csproj",
       "packagesPath": "C:\\Users\\pedro\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\pedro\\OneDrive\\Documentos\\TOQUE.DE.CHEF\\TOQUE.DE.CHEF\\obj\\",
+      "outputPath": "C:\\Users\\pedro\\OneDrive\\Área de Trabalho\\pmg-es-2024-1-ti3-9577100-toque-de-chef\\Codigo\\TOQUE.DE.CHEF\\TOQUE.DE.CHEF\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\pedro\\AppData\\Roaming\\NuGet\\NuGet.Config",

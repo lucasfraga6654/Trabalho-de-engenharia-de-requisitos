@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "pJXI4Mf42AfFDnjjDVXtkHHSru2j94jlOrpp3gj2woyVXJFWJX0CWRutwKtwBUHpKicNMO+GcB6Ue/bI+yJqAQ==",
+  "dgSpecHash": "BsBhF1eSFhxfEgs7leZPMtAABjlLQyrjH/1AU0BfGWhxDBeK4O7ldJ2AhmtoBG10BLmVD+7e2RaYnx0IwOP6SQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\pedro\\OneDrive\\Documentos\\TOQUE.DE.CHEF\\TOQUE.DE.CHEF\\TOQUE.DE.CHEF.csproj",
+  "projectFilePath": "C:\\Users\\pedro\\OneDrive\\Área de Trabalho\\pmg-es-2024-1-ti3-9577100-toque-de-chef\\Codigo\\TOQUE.DE.CHEF\\TOQUE.DE.CHEF\\TOQUE.DE.CHEF.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\pedro\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\pedro\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
