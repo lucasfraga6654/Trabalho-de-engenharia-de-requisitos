@@ -15,6 +15,3 @@ O problema identificado envolve a falta de coordenação e comunicação entre i
 
 * Michelle Hanne Soares de Andrade
 
-## Instruções de utilização
-
-[Assim que a primeira versão do sistema estiver disponível, deverá complementar com as instruções de utilização. Descreva como instalar eventuais dependências e como executar a aplicação.]
