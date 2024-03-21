@@ -1,4 +1,4 @@
-# Toque de Chef
+# Aplicativo Solidariedade
 
 O restaurante Toque de Chef, localizado no bairro Nova Suíça e com mais de 15 anos de tradição, enfrenta um desafio operacional significativo devido à falta de automação na gestão de produtos. Atendendo em média 200 clientes por dia, o estabelecimento, especializado em self-service, carece de um sistema eficiente para controlar estoque, pedidos e fornecedores.
 
@@ -8,6 +8,7 @@ Para superar esses desafios, a implementação de um sistema automatizado se tor
 
 ## Alunos integrantes da equipe
 
+* Juliana Parreiras Guimarães da Cunha
 * Lara Lima Pereira
 * Lucas Fraga Ramos Oliveira
 * Pedro Henrique Marques de Oliveira
@@ -16,7 +17,6 @@ Para superar esses desafios, a implementação de um sistema automatizado se tor
 
 ## Professores responsáveis
 
-* Joana Gabriela Ribeiro de Souza
 * Michelle Hanne Soares de Andrade
 
 ## Instruções de utilização
