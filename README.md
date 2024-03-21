@@ -1,10 +1,6 @@
 # Aplicativo Solidariedade
 
-O restaurante Toque de Chef, localizado no bairro Nova Suíça e com mais de 15 anos de tradição, enfrenta um desafio operacional significativo devido à falta de automação na gestão de produtos. Atendendo em média 200 clientes por dia, o estabelecimento, especializado em self-service, carece de um sistema eficiente para controlar estoque, pedidos e fornecedores.
-
-A ausência de automação resulta em dificuldades na monitorização em tempo real dos ingredientes, levando a desabastecimentos repentinos e excesso de estoque. Isso não apenas gera perdas financeiras, mas também compromete a qualidade do serviço. Além disso, a gestão manual do estoque e fornecedores contribui para a morosidade nos processos administrativos, podendo causar atrasos e erros. 
-
-Para superar esses desafios, a implementação de um sistema automatizado se torna crucial. Um software especializado permitiria monitorar o estoque em tempo real. Essa solução não só reduziria custos operacionais, minimizando desperdícios, como também preservaria a qualidade e variedade dos pratos oferecidos, garantindo a satisfação dos clientes ao longo dos anos.
+O problema identificado envolve a falta de coordenação e comunicação entre indivíduos em situações vulneráveis necessitando de assistência social, econômica ou emocional, e aqueles dispostos a realizar trabalhos voluntários. Esta lacuna dificulta a efetivação da ajuda mesmo quando há disposição para tal, devido à ausência de canais eficientes de comunicação e organização. A solução proposta consiste no desenvolvimento de um aplicativo de software dedicado à gestão de projetos sociais voltados ao voluntariado. Este aplicativo permitirá o cadastro tanto de pessoas físicas quanto de organizações não-governamentais (ONGs), possibilitando que ambas partes criem e gerenciem projetos sociais. Os usuários poderão convidar voluntários para se associarem aos projetos e realizar a gestão das atividades, como o cadastro de ações e eventos, bem como o compartilhamento de fotos relacionadas às atividades realizadas.
 
 ## Alunos integrantes da equipe
 
@@ -15,7 +11,7 @@ Para superar esses desafios, a implementação de um sistema automatizado se tor
 * Rodrigo Garcia Ribas
 * Victhor Sebastian Ribeiro de Brito
 
-## Professores responsáveis
+## Professora responsável
 
 * Michelle Hanne Soares de Andrade
 
